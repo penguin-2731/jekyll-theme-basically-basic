@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
+lang: zh-CN
+title: Gao Xinyan's Personal Website
 email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "Gao Xinyan's Personal Website"
+baseurl: "gaoxinyan" # the optional subpath of your site, e.g. "/blog"
+url:" https://github.com/penguin-2731"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: "Gao Xinyan"
   twitter:
   picture:
 twitter_username:
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
