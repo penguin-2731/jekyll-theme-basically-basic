@@ -17,8 +17,8 @@ lang: zh-CN
 title: Gao Xinyan's Personal Website
 email:
 description: "Gao Xinyan's Personal Website"
-baseurl: "gaoxinyan" # the optional subpath of your site, e.g. "/blog"
-url: " https://github.com/penguin-2731"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+url: "https://penguin-2731.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "Gao Xinyan"
   twitter:
