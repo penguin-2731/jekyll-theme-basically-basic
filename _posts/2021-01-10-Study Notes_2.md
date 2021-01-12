@@ -4,7 +4,7 @@ title: 当弹性布局遇上响应式图片，究竟会擦出怎样的火花
 excerpt_separator: "<!--more-->"
 date: 2021-01-09
 categories:
-     - 课堂笔记
+     - 学习笔记
 
 ---
 
