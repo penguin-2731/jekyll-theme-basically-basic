@@ -4,7 +4,7 @@ title: 变温透气，打破瓶颈
 excerpt_separator: "<!--more-->"
 date: 2021-01-09
 categories:
-     - 课堂笔记
+     - 学习笔记
 
 ---
 
