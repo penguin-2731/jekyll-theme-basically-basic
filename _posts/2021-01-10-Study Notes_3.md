@@ -13,6 +13,7 @@ categories:
 ## 章节三
 <!--more-->
 1.什么是“同温层”？
+ ![同温层](https://gitee.com/GF-2731/penguin_web/raw/d80cdf5de86a8634ae8d6ab5ca80f503a9ecf202/assets/%E5%90%8C%E6%B8%A9%E5%B1%82.png)
 
 2.网页设计与制作应该要有跳出同温层的思想
 
