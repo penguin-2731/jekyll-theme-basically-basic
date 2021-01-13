@@ -1,9 +1,9 @@
 ---
-title: SVG笔记
+title: SVG制作
 layout: tags
-permalink: /tag/SVG笔记/
-taxonomy: SVG笔记
+permalink: /tag/SVG制作/
+taxonomy: SVG制作
 image: assets/SVG banner.png
 ---
 
-分类《SVG笔记》下的文章：
+分类《SVG制作》下的文章：
