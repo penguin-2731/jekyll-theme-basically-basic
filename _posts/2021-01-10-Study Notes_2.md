@@ -21,6 +21,8 @@ Flexible Layout
 3. flex:flex-grow\flex-shrink\flex-basis三者的缩写
 4. 想了解更多可以上[W3CSchool这个网站了解更多](https://www.w3cschool.cn/)
 #### 弹性布局加上响应式图片的效果那是极好的。
+ ![弹性布局](https://gitee.com/GF-2731/penguin_web/raw/0ad59a5140da553d187c1f3bac8abd043c338107/assets/NOTE2.1.jpg)
+ ![弹性布局](https://gitee.com/GF-2731/penguin_web/raw/f0f15933bb97298d3ad63e726559b4e65aa7c886/assets/NOTE2.2.jpg)
 
 话不多说，我们赶紧来看看效果！[调整浏览器大小查看效果](https://www.w3cschool.cn/tryrun/showhtml/tryresponsive_image_background1)
 想了解更多可以[参考链接](https://www.jianshu.com/p/b0ac5bc59a40)
@@ -36,7 +38,7 @@ Flexible Layout
 - 相邻元素，很难做到1个固定，另一个填充空间
 
 ##### 响应式图片
-
+ ![弹性布局](https://gitee.com/GF-2731/penguin_web/raw/f0f15933bb97298d3ad63e726559b4e65aa7c886/assets/NOTE2.2.jpg)
 - 带宽是手机终端的硬伤，如果我们只是页面布局做了响应式处理，在我们用手机访问时，请求的图片还是PC上的大图；文件体积大，消耗流量多，请求延时长，因此导致的问题也是不可估量的。那么我们就得把图片也处理成响应式的根据终端类型尺寸分辨率来适配出合理的图形。
 
 ##### 实用技巧
